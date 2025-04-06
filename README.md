@@ -1,2 +1,0 @@
-# 12strings
-Band website 
