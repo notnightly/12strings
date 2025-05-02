@@ -8,3 +8,8 @@ document.addEventListener('DOMContentLoaded', () => {
         mainContent.classList.add('visible');
     }, 2000);
 }); 
+
+document.addEventListener('click', () => {
+    const button = document.querySelector(".buttonId");
+    alert("w.i.p");
+})
